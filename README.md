@@ -1,5 +1,6 @@
 # Filament Blog - Sellarix
 
+Module can be purchased: https://checkout.anystack.sh/sellarix-fillament-blog
 
 ---
 - anystack_id: 9adaf7c9-7f0a-45ce-bade-083f5b27edb0
@@ -9,7 +10,7 @@
 - linkedin_url: https://www.linkedin.com/company/sellarix-ltd/
 ---
 
-This package provides a full blog module for both frontend livewire components and backend filament management
+This package provides a full blog module:
 
 Functionality available:
 
@@ -21,7 +22,11 @@ Functionality available:
 - Latest Posts
 - Widget for latest posts
 
+
+
 Responsive livewire with tailwind and darkmode. 
+
+Backend configuration uses Fillament. 
 
 ## Requirements
 
