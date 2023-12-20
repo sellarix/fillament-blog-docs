@@ -2,14 +2,6 @@
 
 Module can be purchased: https://checkout.anystack.sh/sellarix-fillament-blog
 
----
-- anystack_id: 9adaf7c9-7f0a-45ce-bade-083f5b27edb0
-- name: Sellarix
-- slug: sellarix
-- github_url: https://github.com/sellarix/laravel-blog
-- linkedin_url: https://www.linkedin.com/company/sellarix-ltd/
----
-
 This package provides a full blog module:
 
 Functionality available:
@@ -21,8 +13,6 @@ Functionality available:
 - Author Connection
 - Latest Posts
 - Widget for latest posts
-
-
 
 Responsive livewire with tailwind and darkmode. 
 
@@ -97,3 +87,9 @@ From within the config you can define the author model config
 
 
 That's it! You can now see your blog on the frontend and start adding posts from your admin panel.
+
+
+Author:
+- Sellarix: https://sellarix.com
+- github_url: https://github.com/sellarix/laravel-blog
+- linkedin_url: https://www.linkedin.com/company/sellarix-ltd/
